@@ -30,7 +30,11 @@ The FDF project is part of the 42 network curriculum, aimed at creating a 3D wir
 
 - **3D Projection**: Project 3D points to a 2D plane.
 - **Wireframe Rendering**: Draw lines between points to create a wireframe representation.
-- **Event Handling**: Allow user interaction through keyboard and mouse inputs.
+- **Zoom In and Out**: Allow zooming in and out of the 3D map.
+- **Rotation**: Rotate the map around the x, y, and z axes.
+- **Multiple Views**: Switch between different projection views (e.g., isometric, parallel).
+- **Mouse and Keyboard Interaction**: Use mouse and keyboard inputs for zooming, rotating, and changing views.
+- **Color Gradients**: Display the map with color gradients based on altitude.
 
 ## Implementation
 
