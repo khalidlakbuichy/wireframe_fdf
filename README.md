@@ -53,7 +53,7 @@ sudo apt-get install make gcc libx11-dev libxext-dev
 Clone the Repository
 
 ```bash
-git clone https://github.com/khalidlakbuichy/fdf.git
+git clone https://github.com/khalidlakbuichy/wireframe_fdf.git
 ```
 ```bash
 cd fdf
